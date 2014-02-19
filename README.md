@@ -1,20 +1,20 @@
 # Setup
 
-Run
-
-```bash
-./setup_environment.sh
-```
-
-# Bayesian Optimization (BO) with Expected Improvement.
-
-Run
+Check out the code from github by running:
 
 ```bash
 git clone https://github.com/oxford-cs-advanced-ml-2014/practical3.git
 ```
 
-to check out the code.
+Then change into the practical3 directory and run 
+
+```bash
+./setup_environment.sh
+```
+
+to set up the environment for the practical.
+
+# Bayesian Optimization (BO) with Expected Improvement.
 
 The instructions for the practical are available on the course website.
 
