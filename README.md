@@ -1,5 +1,13 @@
 # Setup
 
+Before you do anything else, run
+
+```bash
+conda update conda
+```
+
+and say yes to anything it asks you.
+
 Check out the code from github by running:
 
 ```bash
